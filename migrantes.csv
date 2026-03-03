@@ -1,0 +1,31 @@
+id,edad,nacionalidad,municipio_destino,motivo_migracion,tiempo_residencia,arraigo_emocional,percepcion_entorno,ocupacion,nivel_educativo
+1,34,Colombia,Priego de Córdoba,Paz interior,2 años,5,Naturaleza acogedora,Autónomo,Universitario
+2,29,Venezuela,Córdoba capital,Estudios,1 año,3,Ritmo urbano intenso,Estudiante,Universitario
+3,41,Marruecos,Priego de Córdoba,Reencuentro familiar,5 años,4,Comunidad cercana,Agricultor,Secundario
+4,38,Argentina,Córdoba capital,Oportunidad laboral,3 años,2,Ciudad funcional,Administrativo,Técnico superior
+5,56,Perú,Priego de Córdoba,Paz interior,Más de 5 años,5,Silencio que abraza,Jubilado,Secundario
+6,31,México,Córdoba capital,Económico,2 años,2,Velocidad de oportunidades,Empleado,Técnico superior
+7,28,España,Priego de Córdoba,Espiritual,1 año,4,Energía serena del entorno,Autónomo,Universitario
+8,44,Venezuela,Córdoba capital,Oportunidad laboral,4 años,3,Ciudad útil,Administrativo,Universitario
+9,36,Colombia,Priego de Córdoba,Paz interior,3 años,5,Refugio emocional,Naturalista,Universitario
+10,27,Marruecos,Córdoba capital,Económico,Menos de 1 año,2,Entorno desafiante,Empleado,Secundario
+11,39,Argentina,Priego de Córdoba,Reencuentro familiar,2 años,4,Campo que conecta,Jardinero,Primario
+12,42,Chile,Priego de Córdoba,Paz interior,Más de 5 años,5,Pueblo que sana,Comerciante,Secundario
+13,33,Perú,Córdoba capital,Económico,3 años,2,Centro urbano competitivo,Contable,Universitario
+14,45,Venezuela,Priego de Córdoba,Espiritual,4 años,5,Presencia calmada,Naturalista,Técnico superior
+15,26,Colombia,Córdoba capital,Estudios,Menos de 1 año,3,Ritmo académico activo,Estudiante,Universitario
+16,50,México,Priego de Córdoba,Paz interior,5 años,5,Entorno que respira contigo,Panadero,Secundario
+17,40,España,Córdoba capital,Oportunidad laboral,2 años,2,Ciudad conectada,Administrativo,Técnico superior
+18,32,Argentina,Priego de Córdoba,Reencuentro familiar,3 años,4,Círculo humano,Autónomo,Universitario
+19,35,Chile,Córdoba capital,Económico,1 año,2,Dinámica exigente,Empleado,Secundario
+20,29,Venezuela,Priego de Córdoba,Paz interior,1 año,5,Pueblo que escucha,Artesano,Técnico superior
+21,37,Marruecos,Córdoba capital,Oportunidad laboral,4 años,3,Funcionalidad urbana,Contable,Universitario
+22,54,España,Priego de Córdoba,Espiritual,Más de 5 años,5,Comunión con el paisaje,Jubilado,Primario
+23,22,Argentina,Córdoba capital,Estudios,Menos de 1 año,3,Ritmo universitario,Estudiante,Universitario
+24,47,Colombia,Priego de Córdoba,Paz interior,3 años,5,Calma estructurada,Freelance,Universitario
+25,34,Perú,Córdoba capital,Económico,2 años,2,Ciudad que exige,Empleado,Técnico superior
+26,38,Venezuela,Priego de Córdoba,Reencuentro familiar,4 años,4,Encuentro con raíces,Comerciante,Secundario
+27,36,México,Córdoba capital,Oportunidad laboral,3 años,3,Acceso profesional,Administrativo,Universitario
+28,31,Chile,Priego de Córdoba,Espiritual,1 año,4,Lugar que refleja mi ser,Autónomo,Técnico superior
+29,30,Venezuela,Córdoba capital,Económico,2 años,2,Ritmo urbano competitivo,Empleado,Universitario
+30,48,Perú,Priego de Córdoba,Paz interior,Más de 5 años,5,Espacio donde puedo existir,Jubilado,Secundario
