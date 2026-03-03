@@ -1,4 +1,4 @@
-id,edad,nacionalidad,municipio_destino,motivo_migracion,tiempo_residencia,arraigo_emocional,percepcion_entorno,ocupacion,nivel_educativo
+Id,Edad,Nacionalidad,Municipio_destino,Motivo_migracion,Tiempo_residencia,Arraigo_emocional,Percepcion_entorno,Ocupacion,Nivel_educativo
 1,34,Colombia,Priego de Córdoba,Paz interior,2 años,5,Naturaleza acogedora,Autónomo,Universitario
 2,29,Venezuela,Córdoba capital,Estudios,1 año,3,Ritmo urbano intenso,Estudiante,Universitario
 3,41,Marruecos,Priego de Córdoba,Reencuentro familiar,5 años,4,Comunidad cercana,Agricultor,Secundario
@@ -29,3 +29,4 @@ id,edad,nacionalidad,municipio_destino,motivo_migracion,tiempo_residencia,arraig
 28,31,Chile,Priego de Córdoba,Espiritual,1 año,4,Lugar que refleja mi ser,Autónomo,Técnico superior
 29,30,Venezuela,Córdoba capital,Económico,2 años,2,Ritmo urbano competitivo,Empleado,Universitario
 30,48,Perú,Priego de Córdoba,Paz interior,Más de 5 años,5,Espacio donde puedo existir,Jubilado,Secundario
+
